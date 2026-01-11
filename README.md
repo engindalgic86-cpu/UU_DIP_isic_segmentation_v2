@@ -1,6 +1,6 @@
 # ISIC 2018 Deri Lezyonu Segmentasyonu ve Öznitelik Çıkarımı
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULLANICI_ADI/isic_segmentation_project/blob/main/notebooks/ISIC_Segmentation_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/engindalgic86-cpu/UU_DIP_isic_segmentation_v2/blob/main/notebooks/ISIC_Segmentation_Colab.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
